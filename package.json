@@ -1,0 +1,16 @@
+{
+  "name": "saas-review-scraper",
+  "version": "1.0.0",
+  "description": "Scrape SaaS reviews from G2, Capterra, and TrustRadius",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "dotenv": "^16.4.5",
+    "yargs": "^17.7.2"
+  }
+}

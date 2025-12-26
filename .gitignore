@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Output files (generated JSON reviews)
+output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Build artifacts
+dist/
+build/
